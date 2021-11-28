@@ -30,6 +30,11 @@ Bonus:\
 
 ![Image of the working webpage](WorkingImage.PNG)
 
+To run this application:
+Clone repo: 
+git clone https://github.com/nikhil-kharbanda/UofTBootcamp_Homework01.git
+
+Run the index.html file in browser
 
 
 An image of my webpage can be found in the src/img folder and in the readme on GitHub.
